@@ -1,13 +1,13 @@
 {
+  "image": "https://static.wikia.nocookie.net/ninjahattori/images/2/2a/38.mp4_snapshot_11.50_-2017.04.22_08.30.05-.jpg/revision/latest/scale-to-width-down/1000?cb=20170423070143",
   "sections": [
     {
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "{{name}}" },
         { "key": "Username", "value": "{{username}}" },
-        { "key": "Bio", "value": "{{bio}}" },
-        { "key": "Company", "value": "{{company}}" },
-        { "key": "Location", "value": "{{location}}" },
+        { "key": "Bio", "value": "Just a lowkey infosec guy!" },
+        { "key": "Location", "value": "Lucknow, UP, INDIA" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" }
       ]
@@ -15,7 +15,7 @@
     {
       "title": "- System",
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Languages", "value": "C, Cpp, Rust, Python, Bash" },
         { "key": "IDE", "value": "VSCode, Neovim" },
         { "key": "OS", "value": "Linux Mint" },
         { "key": "Shell", "value": "fish" },
@@ -32,8 +32,8 @@
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "{{blog}}" },
+        { "key": "Email", "value": "sandeep18.privateemail@gmail.com" },
+        { "key": "Website", "value": "https://sandeepsinghsethi.vercel.app" },
         { "key": "Twitter", "value": "{{twitter}}" },
         { "key": "GitHub", "value": "https://github.com/{{username}}" }
       ]
